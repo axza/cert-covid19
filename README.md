@@ -27,6 +27,7 @@ Stand: 27.03.2020 - 20:00Uhr
   - [European Centre for Disease Prevention and
     Control](https://qap.ecdc.europa.eu/public/extensions/COVID-19/COVID-19.html)
   - [Tableau.com](https://www.tableau.com/covid-19-coronavirus-data-resources)
+  - [Corona-Infektionen in Deutschland (und Graphen zu Verdoppelungszeiten dt. und int.)](https://www.zeit.de/wissen/gesundheit/coronavirus-echtzeit-karte-deutschland-landkreise-infektionen-ausbreitung#diagramm-international)
 
 ## Lageinformationen
 
